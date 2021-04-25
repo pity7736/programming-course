@@ -59,4 +59,4 @@ Identity operators are used to know if two objects are the same:
 | Operator | Description                                              | Example     |
 | ---------|----------------------------------------------------------|-------------|
 | `is`     | Returns `True` if both variables are the same object     | `x is y`    |
-| `is not` | Returns `True` if both variables are not the same object | `x is not y |
+| `is not` | Returns `True` if both variables are not the same object | `x is not y` |
