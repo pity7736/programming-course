@@ -12,6 +12,7 @@
 
 * Integers (int)
 * Floats (float)
+* Boolean (bool)
 * Complex (complex)
 * Sequences
 * Strings (str)
@@ -28,6 +29,10 @@ It's handled with `int` object.
 
 Floats are a number representation with fractional part (e.g. `1.0`, `5.0`, `10.0`, `11.5`).
 It's handled with `float` object.
+
+### Booleans
+
+Boolean are a truth representation. Basically boolean are integers with a domain of two values: 0 and 1.
 
 ### Complex
 
