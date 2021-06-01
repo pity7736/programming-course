@@ -11,7 +11,7 @@ int_values_params = (
 
 
 @mark.parametrize('value, expected_value', int_values_params)
-def test_int_to_float_1212(value, expected_value):
+def test_int_to_float(value, expected_value):
     assert type(int_to_float(value=value)) is float
     assert int_to_float(value=value) == expected_value
 

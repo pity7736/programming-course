@@ -32,7 +32,7 @@ It's handled with `float` object.
 
 ### Booleans
 
-Boolean are a truth representation. Basically boolean are integers with a domain of two values: 0 and 1.
+Boolean are a truth representation. Basically boolean are integers with a domain of two values: 0 (`False`) and 1 (`True`).
 
 ### Complex
 
